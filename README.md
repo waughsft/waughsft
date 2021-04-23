@@ -14,3 +14,7 @@
 <br />
 <img width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" align="left" /> 
 <font color="red"> My email: yselimkg@gmail.com </font>
+
+[twitter]: https://twitter.com/itsyavuzselim
+[instagram]: https://www.instagram.com/itsyavuzselim/
+
