@@ -1,8 +1,8 @@
 <img src="https://c.tenor.com/SwEEgaCcYfoAAAAi/pepe-band-pepe.gif " align="right" width="300" height="100"> 
 
-### Hello everyone, I am Yavuz Selim :smile:
+### Hello everyone, I am Yavuz Selim 
 
-## | Student for Everything :grin:
+## | Student for Everything 
 
 <font color="yellow"> Vi veri veniversum vivus vici </font>
 
