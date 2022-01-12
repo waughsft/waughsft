@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/Uy30Gh8xN3AFwaCSCI " align="right" width="300" height="150"> 
+<img src="https://c.tenor.com/SwEEgaCcYfoAAAAi/pepe-band-pepe.gif " align="right" width="300" height="150"> 
 
 ### Hello everyone, I am Yavuz Selim :smile:
 
