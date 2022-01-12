@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/SwEEgaCcYfoAAAAi/pepe-band-pepe.gif " align="right" width="200" height="100"> 
+<img src="https://c.tenor.com/SwEEgaCcYfoAAAAi/pepe-band-pepe.gif " align="right" width="300" height="100"> 
 
 ### Hello everyone, I am Yavuz Selim :smile:
 
